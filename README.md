@@ -12,6 +12,12 @@ For my analysis, I selected only reviews that had 20 or more total votes, and fo
 - 48 of the 94 Vine reviews gave 5 stars. 15663 of the 40471 non-Vine reviews gave 5 stars.
 - 51.1% of Vine Reviews were 5-star reviews. 38.7% of non-Vine reviews were 5-star reviews.
 
+The results are summarized in the following dataframe:
+
+![](images/vine.png)
+
+
+
 ### Summary
 
 There appears to be a bias toward favourable reviews from Vine members. 51.1% of Vine members awarded 5 stars in their reviews compared to only 38% of non-Vine members. It should be noted, however, that the number of Vine reviews in the dataset was relatively small, with only 94 total reviews. Further analysis could compare the average star total of Vine and non-Vine reviews.
